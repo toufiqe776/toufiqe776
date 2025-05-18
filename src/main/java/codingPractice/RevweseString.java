@@ -6,7 +6,7 @@ public class RevweseString {
         String rev="";
         for(int i=0;i<str.length();i++){
             rev=str.charAt(i)+rev;
-          
+
         }
         System.out.println(rev);
     }
