@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab63aaaa-6589-40aa-bd35-2a662f33be41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingPractice/swapNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingPractice/swapingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPractice/SwapingNumberMultiAndDivi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,31 +54,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/swapNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/swapingNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/bike.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/swapingNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/SwapingNumberMultiAndDivi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -155,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/main/java/codingPractice/PrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingPractice/swapNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingPractice/swapingNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingPractice/SwapingNumberMultiAndDivi.java" />
       </list>
     </option>
   </component>
@@ -218,7 +211,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1747578374200" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1747579898978" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.swapingNumber">
+  <component name="RunManager" selected="Application.SwapingNumberMultiAndDivi">
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingPractice.PrimeNumber" />
       <module name="Collections" />
@@ -246,8 +239,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingPractice.ReverseNumber" />
+    <configuration name="RevweseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingPractice.RevweseString" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -259,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevweseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingPractice.RevweseString" />
+    <configuration name="SwapingNumberMultiAndDivi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingPractice.SwapingNumberMultiAndDivi" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -300,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapingNumberMultiAndDivi" />
         <item itemvalue="Application.swapingNumber" />
         <item itemvalue="Application.swapNumber" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.RevweseString" />
-        <item itemvalue="Application.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -514,14 +507,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/swapNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/swapingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="96">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingPractice/SwapingNumberMultiAndDivi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
